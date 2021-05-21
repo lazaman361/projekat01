@@ -634,6 +634,30 @@
                         <li id="menu-item-412"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a
                                 href="https://convergetp.com/contact-us/">Contact Us</a></li>
+
+                        <li id="menu-item-410"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-410">
+                            <a href="https://convergetp.com/tools/">Tools</a>
+                            <ul class="sub-menu">
+                                <li id="menu-item-12764"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12764"><a
+                                        href="https://convergetp.com/newsroom/import/">Import tool</a></li>
+                                <li id="menu-item-10857"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10857"><a
+                                        href="https://convergetp.com/newsroom/mass-delete/">Mass Delete Tool</a></li>
+                                <li id="menu-item-11792"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11792"><a
+                                        href="https://convergetp.com/data-push/">Data Push Tool</a></li>
+                            </ul>
+                        </li>
+
+                        <li id="menu-item-412"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a
+                                href="http://localhost/exports/">Exports</a></li>
+
+                        <li id="menu-item-412"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a
+                                href="http://localhost/login/">Login</a></li>
                     </ul>
                 </nav>
 

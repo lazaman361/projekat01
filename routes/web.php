@@ -28,3 +28,7 @@ Route::get('/draft1', function () {
 Route::get('/draft2', function () {
     return view('indexdraft2');
 });
+
+Route::get('/login', function () {
+    return view('login');
+});
